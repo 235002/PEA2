@@ -1,0 +1,8 @@
+Wykonyawnie testu dla symulowania wyzazania
+Wynik dla  pliku: test0.txt   Œredni czas wykonania: 37947 [us] 
+Wynik dla  pliku: test1.txt   Œredni czas wykonania: 73440.1 [us] 
+Wynik dla  pliku: test10.txt   Œredni czas wykonania: 188531 [us] 
+Wynik dla  pliku: test13.txt   Œredni czas wykonania: 413062 [us] 
+Wynik dla  pliku: test14.txt   Œredni czas wykonania: 691748 [us] 
+Wynik dla  pliku: test15.txt   Œredni czas wykonania: 1.02483e+06 [us] 
+Wynik dla  pliku: test17.txt   Œredni czas wykonania: 1.51559e+06 [us] 

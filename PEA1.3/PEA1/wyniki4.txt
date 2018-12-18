@@ -1,0 +1,15 @@
+Wykonyawnie testu dla symulowania wyzazania
+Wynik programowania dynamicznego. Nazwa pliku: test0.txt Koszt sciezki: 132
+Wynik dla  pliku: test0.txt   Œredni czas wykonania: 40628.3 [us]  Zgodnoœæ z PD: 1
+Wynik programowania dynamicznego. Nazwa pliku: test1.txt Koszt sciezki: 80
+Wynik dla  pliku: test1.txt   Œredni czas wykonania: 79017.3 [us]  Zgodnoœæ z PD: 1
+Wynik programowania dynamicznego. Nazwa pliku: test10.txt Koszt sciezki: 177
+Wynik dla  pliku: test10.txt   Œredni czas wykonania: 208226 [us]  Zgodnoœæ z PD: 0
+Wynik programowania dynamicznego. Nazwa pliku: test13.txt Koszt sciezki: 269
+Wynik dla  pliku: test13.txt   Œredni czas wykonania: 449966 [us]  Zgodnoœæ z PD: 0
+Wynik programowania dynamicznego. Nazwa pliku: test14.txt Koszt sciezki: 282
+Wynik dla  pliku: test14.txt   Œredni czas wykonania: 738562 [us]  Zgodnoœæ z PD: 0
+Wynik programowania dynamicznego. Nazwa pliku: test15.txt Koszt sciezki: 291
+Wynik dla  pliku: test15.txt   Œredni czas wykonania: 1.08319e+06 [us]  Zgodnoœæ z PD: 0
+Wynik programowania dynamicznego. Nazwa pliku: test17.txt Koszt sciezki: 39
+Wynik dla  pliku: test17.txt   Œredni czas wykonania: 1.55587e+06 [us]  Zgodnoœæ z PD: 0

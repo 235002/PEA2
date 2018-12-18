@@ -1,0 +1,3 @@
+Wykonyawnie testu dla przegladu zupelnego
+Wynik dla  pliku: test13.txt   Œredni czas wykonania: 7.37884e+08 [us] 
+Wynik dla  pliku: test14.txt   Œredni czas wykonania: 1.06241e+10 [us] 

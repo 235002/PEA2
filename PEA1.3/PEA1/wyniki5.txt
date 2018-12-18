@@ -1,0 +1,11 @@
+Wykonyawnie testu dla symulowania wyzazania
+Plik: data21.txt   Œredni czas wykonania: 8.46181e+07 [us]    Temp pocz: 100000, Temp chlodzenia: 0.9999, Temp min: 0.0001, Liczba iteracji: 110, Zgodnoœæ z PD: 100. 
+==================================================
+Plik: data24.txt   Œredni czas wykonania: 1.95577e+08 [us]    Temp pocz: 100000, Temp chlodzenia: 0.9999, Temp min: 0.0001, Liczba iteracji: 144, Zgodnoœæ z PD: 100. 
+==================================================
+Plik: data26.txt   Œredni czas wykonania: 3.26176e+08 [us]    Temp pocz: 100000, Temp chlodzenia: 0.9999, Temp min: 0.0001, Liczba iteracji: 169, Zgodnoœæ z PD: 100. 
+==================================================
+Plik: data29.txt   Œredni czas wykonania: 5.11277e+08 [us]    Temp pocz: 100000, Temp chlodzenia: 0.9999, Temp min: 0.0001, Liczba iteracji: 210, Zgodnoœæ z PD: 100. 
+==================================================
+Plik: data42.txt   Œredni czas wykonania: 1.00538e+09 [us]    Temp pocz: 100000, Temp chlodzenia: 0.9999, Temp min: 0.0001, Liczba iteracji: 441, Zgodnoœæ z PD: 100. 
+==================================================

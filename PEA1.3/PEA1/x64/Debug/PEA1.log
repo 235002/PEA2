@@ -1,0 +1,6 @@
+﻿  PEA1.cpp
+c:\users\lenovo\source\repos\pea1.3\pea1\pea1.cpp(83): warning C4244: "inicjowanie": konwersja z "LONGLONG" do "double", możliwa utrata danych
+c:\users\lenovo\source\repos\pea1.3\pea1\pea1.cpp(106): warning C4244: "inicjowanie": konwersja z "LONGLONG" do "double", możliwa utrata danych
+c:\users\lenovo\source\repos\pea1.3\pea1\pea1.cpp(129): warning C4244: "inicjowanie": konwersja z "LONGLONG" do "double", możliwa utrata danych
+c:\users\lenovo\source\repos\pea1.3\pea1\pea1.cpp(186): warning C4244: "=": konwersja z "LONGLONG" do "double", możliwa utrata danych
+  PEA1.vcxproj -> C:\Users\Lenovo\source\repos\PEA1.3\x64\Debug\PEA1.exe

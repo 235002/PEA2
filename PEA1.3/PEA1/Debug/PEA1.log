@@ -1,0 +1,4 @@
+﻿  DynamicProgramming.cpp
+c:\users\lenovo\source\repos\pea1.3\pea1\dynamicprogramming.cpp(25): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+c:\users\lenovo\source\repos\pea1.3\pea1\dynamicprogramming.cpp(26): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+  PEA1.vcxproj -> C:\Users\Lenovo\source\repos\PEA1.3\Debug\PEA1.exe
